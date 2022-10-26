@@ -1,0 +1,2 @@
+INSERT INTO `bd_bodega`.`usuarios` (`password`, `rol`, `usuario`) VALUES ('123', 'ADMIN', 'pepe001');
+INSERT INTO `bd_bodega`.`usuarios` (`password`, `rol`, `usuario`) VALUES ('qwert', 'USER', 'carlito2020');
